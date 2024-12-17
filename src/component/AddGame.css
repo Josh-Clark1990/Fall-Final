@@ -1,0 +1,20 @@
+#addGame{
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px 5px gray;
+  border: thick solid rgb(5, 160, 231);
+  padding: 5em;
+  color:rgb(0, 0, 0);
+  background-color: rgba(194, 22, 157, 0.589);
+  text-align: center;
+}
+
+li{
+  color:blue;
+}
+
+
+.card-img-top {
+width: 100%;
+height: 40vh;
+object-fit: cover;
+}
