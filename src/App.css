@@ -1,9 +1,11 @@
 #allGames{
   border-radius: 5%;
   box-shadow: 5px 5px 5px 5px rgb(96, 12, 231);
-  border: thick solid black;
+  border: thin solid rgb(142, 35, 204);
   padding: 5em;
-  background-color: #bc20d1;
+  background-color: #09032b;
+  text-align: center;
+  color: rgb(94, 159, 216);
 
 
 }
@@ -13,11 +15,12 @@
   box-shadow: 5px 5px 5px 5px gray;
   border: thick solid black;
   padding: 5em;
-  color:rgb(34, 0, 44);
-  background-color: hsl(249, 93%, 73%)
-  ;}
+  color:rgb(0, 0, 0);
+  background-color: hsl(256, 100%, 74%);
+  text-align: center;
+}
 
-  body{
+  .body{
     background-color: black;
   }
 

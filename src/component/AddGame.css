@@ -12,6 +12,13 @@ li{
   color:blue;
 }
 
+.card{
+  border: thick solid rgb(5, 1, 5);
+  border-width: 10px;
+  border-style:groove;
+  width: 110%;
+}
+
 
 .card-img-top {
 width: 100%;

@@ -102,7 +102,7 @@ function App() {
       GameName: "Super Metroid",
       ConsoleName: "Super Nintendo",
       Developer: "Nintendo",
-      image: "supermetroid.webp",
+      image: "supermetroid.jpg",
       ReleaseYear: 1994 ,
     }, {
       id:nanoid(),
